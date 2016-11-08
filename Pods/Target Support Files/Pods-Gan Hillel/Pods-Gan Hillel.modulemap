@@ -1,0 +1,6 @@
+framework module Pods_Gan_Hillel {
+  umbrella header "Pods-Gan Hillel-umbrella.h"
+
+  export *
+  module * { export * }
+}
